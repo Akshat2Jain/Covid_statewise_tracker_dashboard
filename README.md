@@ -15,3 +15,5 @@ For chart I have used chat.js labeled one dimension as states and another dimens
 
 It is also fully responsive
 ----------------------------
+
+![Screenshot from 2022-03-09 19-37-31](https://user-images.githubusercontent.com/101265586/157464112-9526f83e-f81f-4954-80d0-a07ea97b323c.png)
