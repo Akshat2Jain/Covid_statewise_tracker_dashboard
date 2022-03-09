@@ -7,3 +7,5 @@ It shows Confirmed Cases.
 
 It shows recovered cases and deaths per states.
 For chart I have used chat.js labeled one dimension as states and another dimension as number of cases
+--------------------------------------------------------------------------------------------------------
+
