@@ -3,6 +3,6 @@ In this I have created a covid tracker dashborad that will represent how many ca
 ![Screenshot from 2022-03-09 19-34-06](https://user-images.githubusercontent.com/101265586/157461891-5478f38f-5b05-4655-9bb7-160aaaefdd28.png)
 
 It shows Confirmed Cases.
-
+![Screenshot from 2022-03-09 19-34-32](https://user-images.githubusercontent.com/101265586/157462251-c6ac36ad-d0de-44a2-9b9b-b8ca433b0715.png)
 
 
