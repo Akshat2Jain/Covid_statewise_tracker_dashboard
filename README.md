@@ -9,3 +9,4 @@ It shows recovered cases and deaths per states.
 For chart I have used chat.js labeled one dimension as states and another dimension as number of cases
 --------------------------------------------------------------------------------------------------------
 
+*Data Came from a api got it from rapidapi but it shows data from march 2020 to october 2021
