@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="styles.css" />
+    <title>Covid 19 tracker</title>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <img src="logo.png" alt="" />
+        <p>Covid-19<br />Statewise Stats</p>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <div class="stats">
+        <div class="latest-report">
+          <div class="confirmed">
+            <div class="title">Confirmed</div>
+            <p id="Con"></p>
+          </div>
+          <div class="active">
+            <div class="title">Active</div>
+            <p id="Aac"></p>
+          </div>
+          <div class="recovered">
+            <div class="title">Recovered</div>
+            <p id="Rec"></p>
+          </div>
+          <div class="deaths">
+            <div class="title">Deaths</div>
+            <p id="Det"></p>
+          </div>
+        </div>
+        <div class="chart">
+          <canvas id="myChart"></canvas>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="footer-container">
+        <div class="copyright">
+          <p>Copyright Ⓒ 2022 Akshat Jain</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js"
+    integrity="sha512-QSkVNOCYLtj73J4hbmVoOV6KVZuMluZlioC+trLpewV8qMjsWqlIQvkn1KGX2StWvPMdWGBqim1xlC8krl1EKQ=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  ></script>
+
+  <script src="script.js"></script>
+</html>
